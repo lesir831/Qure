@@ -1,0 +1,14 @@
+{
+  "description": "lesir Qx Icon",
+  "icons": [
+    {
+      "name": "OpenAi.png",
+      "url": "https://raw.githubusercontent.com/lesir831/Qure/master/IconSet/lesir/OpenAi.png"
+    },
+    {
+      "name": "Bing.png",
+      "url": "https://raw.githubusercontent.com/lesir831/Qure/master/IconSet/lesir/Bing.png"
+    }
+  ],
+  "name": "Qx Icon By lesir"
+}
